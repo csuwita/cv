@@ -1,0 +1,45 @@
+BOILERPLATE:
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <body>
+    </body>
+</html>
+
+<em> - italicizes
+<strong> - bolds
+<ul> - unordered list
+<ol> - ordered list, roman numeral: <ol type="i">
+
+links:
+<a href="LINK">text</a>
+
+table: <table>
+<table>
+            <thead> - header
+                <tr> 
+                    <th></th> - head cell
+                </tr>
+            </thead>
+            <tbody> - body
+                <tr>
+                    <td>Sep 2022 - Present</td>
+                    <td>Research Assistant at MetoyerLab</td>
+                </tr> - table row
+                <tr>
+                    <td>Jul 2022</td> - data clel
+                    <td>UX/UI Design Intern at the IDEA Center</td>
+                </tr>
+            </tbody>
+            <tfoot>
+            </tfoot>
+        </table>
+
+<form action="" method="" enctype="">: - action takes you to where you click after you submit, method = post takes in everything in the form and puts it in where you wanna send it to, enctype makes it readable
+<label> and <input>
+- can have text, submit, choose a file, date, radio button, range, password, etc. 
+
+<textarea> - textbox
